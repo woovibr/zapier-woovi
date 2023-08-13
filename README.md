@@ -6,7 +6,7 @@ Integrate our [app](https://zapier.com/apps/woovi/integrations) into your integr
 
 ## Documentation
 
-See how you can integrate our application into your integration in our documentation.
+See how you can integrate our app into your integration in our [documentation](https://developers.woovi.com/docs/integrations/zapier-with-woovi).
 
 ## License
 
